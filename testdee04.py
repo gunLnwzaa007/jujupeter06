@@ -1,6 +1,6 @@
 # if-else-if พิสูจน์/ตรวจสอบ หลายครั้ง
 
-if 50 > 60 :
+if 50 < 60 :
     print("GEE")
 elif "Sombat" == "Somjai" :
     print("EEE")
